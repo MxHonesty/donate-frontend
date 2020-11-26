@@ -30,8 +30,8 @@ export default class AddDonation extends Component {
         script.setAttribute("data-key", "pk_test_51HpuO9HVcUXloEFQsaklizjrJNIIk1l1W3DetO5thRHaIlerOKRGZJYbVwrOmvd7x0LxuagTq8STsfMtG2YA9goG00ZHmO35aC");
         script.setAttribute("data-amount", "7000");
         script.setAttribute("data-currency", "usd");
-        script.setAttribute("data-name", "Gautam Sharma");
-        script.setAttribute("data-description", "Buy React.js Complete Course");
+        script.setAttribute("data-name", "TEST");
+        script.setAttribute("data-description", "TEST PURCHASE");
         script.setAttribute("data-locale", "auto");
       script.onload = () => this.scriptLoaded();
     
